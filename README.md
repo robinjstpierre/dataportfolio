@@ -1,4 +1,4 @@
-# Data/Business Analyst
+# Data Analyst
 
 #### Technical Skills: Excel, SQL, Python
 
@@ -7,12 +7,10 @@
 - IBM Data Analyst Professional Certificate: In Progress			        		
 
 ## Projects
-### Coffee Sales Project
-[Project](https://www.mdpi.com/1424-8220/22/8/3048)
+### Coffee Sales Project  [Project](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Using Excel, created a dashboard that showed the 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
