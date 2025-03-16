@@ -1,6 +1,6 @@
 # Data/Business Analyst
 
-#### Technical Skills: Excel, SQL, Python, SQL
+#### Technical Skills: Excel, SQL, Python
 
 ## Education & Certifications
 - B.M., Professional Music: Music Education - Berklee College of Music (May 2019)								       		
