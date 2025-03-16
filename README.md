@@ -4,12 +4,15 @@
 
 ## Education & Certifications
 - B.M., Professional Music: Music Education - Berklee College of Music (May 2019)								       		
-- IBM Data Analyst Professional Certificate: In Progress			        		
+- IBM Data Analyst Professional Certificate - In Progress			        		
 
 ## Projects
-### Coffee Sales Project  [Project](https://www.mdpi.com/1424-8220/22/8/3048)
+### [Coffee Sales Project](Coffee Orders Project.xlsx)
 
-Using Excel, created a dashboard that showed the 
+- Using Excel, gathered, cleaned, and transformed the data using pivot tables to create an interactive dashboard.
+
+### [Bike Sales Project](Bike Sales Dashboard.xlsx)
+
 
 
 ## Work Experience
