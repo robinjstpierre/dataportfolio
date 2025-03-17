@@ -23,5 +23,5 @@
 **Over the Road Truck Driver - Prime Inc. (_October 2020 - June 2023_)**
 - Managed logistics for nationwide deliveries, ensuring on-time and safe transport of goods, including medical and food supplies. Tracked vehicle usage and coordinated maintenance, addressing issues promptly to ensure compliance and operational efficiency. Demonstrated strong communication skills by liaising with managers and clients to handle emergencies, rerouting plans, and adjusting schedules as necessary to meet delivery timelines.
 
-** Music Director- Orlando,FL. (_May 2019 - Present_)**
+**Music Director- Orlando,FL. (_May 2019 - Present_)**
 - led the planning and execution of weekly services and special events, applying project management principles to coordinate schedules, volunteers, and technical resources while ensuring compliance with organizational standards for seamless delivery. Served as the primary liaison for pastors, staff, and volunteers, facilitating clear communication and swiftly resolving issues to mitigate operational risks. Oversaw rehearsals, technical setup, and quality assurance to maintain service integrity, while managing event timelines and conducting post-event reviews to evaluate compliance and drive continuous improvement.
