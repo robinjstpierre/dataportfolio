@@ -16,7 +16,7 @@
 - Utilized Excel to collect, clean, and transform data, using pivot tables to develop an interactive dashboard for data visualization and analysis.
 - Objective: Analyze the average income, commute distance, and age range of individuals who purchased versus those who did not purchase a bike, while conducting a deeper exploration of factors such as marital status, region, and education level to uncover key demographic insights.
 
-##Work Experience
+## Work Experience
 **Private School Driver - Freddy's Transportation (_August 2023 - Present_)**
 - Coordinated daily schedules to optimize routes and ensure timely service for school-related transportation. Responsible for conducting thorough vehicle inspections and coordinating maintenance to ensure vehicle safety and regulatory compliance. Maintained clear and consistent communication with parents and school staff, addressing any scheduling or operational issues as they arose.
 
