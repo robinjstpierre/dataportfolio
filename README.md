@@ -18,7 +18,7 @@
 
 ## Work Experience
 **Private School Driver - Freddy's Transportation (_August 2023 - Present_)**
--Coordinated daily schedules to optimize routes and ensure timely service for school-related transportation. Responsible for conducting thorough vehicle inspections and coordinating maintenance to ensure vehicle safety and regulatory compliance. Maintained clear and consistent communication with parents and school staff, addressing any scheduling or operational issues as they arose.
+- Coordinated daily schedules to optimize routes and ensure timely service for school-related transportation. Responsible for conducting thorough vehicle inspections and coordinating maintenance to ensure vehicle safety and regulatory compliance. Maintained clear and consistent communication with parents and school staff, addressing any scheduling or operational issues as they arose.
 
 **Over the Road Truck Driver - Prime Inc. (_October 2020 - June 2023_)**
 - Managed logistics for nationwide deliveries, ensuring on-time and safe transport of goods, including medical and food supplies. Tracked vehicle usage and coordinated maintenance, addressing issues promptly to ensure compliance and operational efficiency. Demonstrated strong communication skills by liaising with managers and clients to handle emergencies, rerouting plans, and adjusting schedules as necessary to meet delivery timelines.
