@@ -1,7 +1,7 @@
 # Data Analyst
 
 ## Skills
--Programming Languages: Python (Pandas,NumPy, MatPlotLib
+-Programming Languages: Python (Pandas,NumPy, MatPlotLib)
 -Databases: SQLite, PostgrerSQL
 -Visualization Tools: Microsoft Excel (Pivot Table, XLOOKUP, Conditional Formatting
 
