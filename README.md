@@ -14,7 +14,7 @@
 - Analyzed over 500 case files from Chicago datasets (Socioeconomic, Schools, Crime) using SQLite and SQL queries. Processed CSV data with Pandas from the Chicago Data Portal.
   
 ### [Coffee Sales Project](Coffee Orders Project.xlsx)
--Created an Excel dashboard using pivot tables to analyze and categorize over 1,000 coffee sales orders by size, type, country, and time period for actionable sales insights.
+- Created an Excel dashboard using pivot tables to analyze and categorize over 1,000 coffee sales orders by size, type, country, and time period for actionable sales insights.
   
 ### [Bike Sales Project](Bike Sales Dashboard.xlsx)
 - Developed an Excel dashboard with pivot tables to analyze over 1,000 bike sales, comparing income, commute distance, and age of buyers vs. non-buyers, and exploring marital status, region, and education for demographic insights.
