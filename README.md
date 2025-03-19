@@ -3,7 +3,7 @@
 ## Skills
 - Programming Languages: Python (Pandas,NumPy, MatPlotLib)
 - Databases: SQLite, PostgrerSQL
-- Visualization Tools: Microsoft Excel (Pivot Table, XLOOKUP, Conditional Formatting
+- Visualization Tools: Microsoft Excel (Pivot Table, XLOOKUP, Conditional Formatting)
 
 ## Education & Certifications
 - B.M., Professional Music: Music Education - Berklee College of Music (May 2019)								       		
