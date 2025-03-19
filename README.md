@@ -20,11 +20,14 @@
 - Developed an Excel dashboard with pivot tables to analyze over 1,000 bike sales, comparing income, commute distance, and age of buyers vs. non-buyers, and exploring marital status, region, and education for demographic insights.
 
 ## Work Experience
+**Music Director- Orlando,FL. (_May 2019 - Present_)**
+- led the planning and execution of weekly services and special events, applying project management principles to coordinate schedules, volunteers, and technical resources while ensuring compliance with organizational standards for seamless delivery. Served as the primary liaison for pastors, staff, and volunteers, facilitating clear communication and swiftly resolving issues to mitigate operational risks. Oversaw rehearsals, technical setup, and quality assurance to maintain service integrity, while managing event timelines and conducting post-event reviews to evaluate compliance and drive continuous improvement.
+
 **Private School Driver - Freddy's Transportation (_August 2023 - Present_)**
 - Coordinated daily schedules to optimize routes and ensure timely service for school-related transportation. Responsible for conducting thorough vehicle inspections and coordinating maintenance to ensure vehicle safety and regulatory compliance. Maintained clear and consistent communication with parents and school staff, addressing any scheduling or operational issues as they arose.
 
 **Over the Road Truck Driver - Prime Inc. (_October 2020 - June 2023_)**
 - Managed logistics for nationwide deliveries, ensuring on-time and safe transport of goods, including medical and food supplies. Tracked vehicle usage and coordinated maintenance, addressing issues promptly to ensure compliance and operational efficiency. Demonstrated strong communication skills by liaising with managers and clients to handle emergencies, rerouting plans, and adjusting schedules as necessary to meet delivery timelines.
 
-**Music Director- Orlando,FL. (_May 2019 - Present_)**
-- led the planning and execution of weekly services and special events, applying project management principles to coordinate schedules, volunteers, and technical resources while ensuring compliance with organizational standards for seamless delivery. Served as the primary liaison for pastors, staff, and volunteers, facilitating clear communication and swiftly resolving issues to mitigate operational risks. Oversaw rehearsals, technical setup, and quality assurance to maintain service integrity, while managing event timelines and conducting post-event reviews to evaluate compliance and drive continuous improvement.
+**Central Monitoring Agent- Envera System (_July 2019 - October 2020_)**
+- Monitored and tracked over 100 daily client interactions, resolving technical issues related to access control and alarms while ensuring service compliance. Communicated effectively with field teams and clients to address concerns, providing timely solutions to any operational issues. Maintained accurate records of service calls, technical issues, and service agreements, ensuring that all information was organized and readily accessible for reporting purposes.
