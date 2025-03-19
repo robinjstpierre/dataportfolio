@@ -1,6 +1,9 @@
 # Data Analyst
 
-## Technical Skills: Excel, SQL, Python
+## Skills
+-Programming Languages: Python (Pandas,NumPy, MatPlotLib
+-Databases: SQLite, PostgrerSQL
+-Visualization Tools: Microsoft Excel (Pivot Table, XLOOKUP, Conditional Formatting
 
 ## Education & Certifications
 - B.M., Professional Music: Music Education - Berklee College of Music (May 2019)								       		
@@ -8,17 +11,13 @@
 
 ## Projects
 ### [Chicago Data Project](https://github.com/robinjstpierre/dataportfolio/blob/2015b1c28a16e1b314329f1ffe0122dff18a8714/Chicago%20Data%20Portal.ipynb)
-- Using Python and SQLite, loaded different datasets using pandas
-- Executed SQL querries to answer specific questions
-
+- Analyzed over 500 case files from Chicago datasets (Socioeconomic, Schools, Crime) using SQLite and SQL queries. Processed CSV data with Pandas from the Chicago Data Portal.
+  
 ### [Coffee Sales Project](Coffee Orders Project.xlsx)
-
-- Utilized Excel to collect, clean, and transform data, using pivot tables to develop an interactive dashboard for data visualization and analysis.
-- Objective: Analyze and categorize coffee sales by size and type, with the ability to explore specific sales data by country and time period, providing comprehensive insights into sales trends and performance.
+-Created an Excel dashboard using pivot tables to analyze and categorize over 1,000 coffee sales orders by size, type, country, and time period for actionable sales insights.
   
 ### [Bike Sales Project](Bike Sales Dashboard.xlsx)
-- Utilized Excel to collect, clean, and transform data, using pivot tables to develop an interactive dashboard for data visualization and analysis.
-- Objective: Analyze the average income, commute distance, and age range of individuals who purchased versus those who did not purchase a bike, while conducting a deeper exploration of factors such as marital status, region, and education level to uncover key demographic insights.
+- Developed an Excel dashboard with pivot tables to analyze over 1,000 bike sales, comparing income, commute distance, and age of buyers vs. non-buyers, and exploring marital status, region, and education for demographic insights.
 
 ## Work Experience
 **Private School Driver - Freddy's Transportation (_August 2023 - Present_)**
