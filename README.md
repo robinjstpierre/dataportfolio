@@ -2,7 +2,7 @@
 
 ## Skills
 - Programming Languages: Python (Pandas,NumPy, MatPlotLib)
-- Databases: SQLite, PostgresSQL
+- Databases: MySQL,SQLite,PostgresSQL
 - Visualization Tools: Microsoft Excel (Pivot Table, XLOOKUP, Conditional Formatting)
 
 ## Education & Certifications
