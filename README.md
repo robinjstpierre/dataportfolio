@@ -1,5 +1,4 @@
-# Robin J. St.Pierre
-## Data Analyst | Business Analyst
+# Robin J. St.Pierre - Data Analyst | Business Analyst
 
 ## Skills
 - Programming Languages: Python (Pandas,NumPy, MatPlotLib)
