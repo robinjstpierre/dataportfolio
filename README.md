@@ -11,14 +11,15 @@
 
 ## Projects
 ### [Data Analyst Job Market Project](https://github.com/robinjstpierre/SQL/tree/main/SQL_Project_Data_Job_Analysis)
+- This project uses SQL to analyze thousands of 2023 Florida job-posting records, identifying high-paying Data Analyst roles and in-demand skills. It leverages joins, CTEs, and aggregations to transform raw data into actionable insights on skill demand and salary trends.
 
 ### [Chicago Data Project](https://github.com/robinjstpierre/dataportfolio/blob/2015b1c28a16e1b314329f1ffe0122dff18a8714/Chicago%20Data%20Portal.ipynb)
 - Analyzed over 500 case files from Chicago datasets (Socioeconomic, Schools, Crime) using SQLite and SQL queries. Processed CSV data with Pandas from the Chicago Data Portal.
   
-### [Coffee Sales Project](Coffee Orders Project.xlsx)
+### [Coffee Sales Project]([Coffee Orders Project.xlsx](https://github.com/robinjstpierre/dataportfolio/blob/main/Coffee%20Orders%20Project.xlsx))
 - Created an Excel dashboard using pivot tables to analyze and categorize over 1,000 coffee sales orders by size, type, country, and time period for actionable sales insights.
   
-### [Bike Sales Project](Bike Sales Dashboard.xlsx)
+### [Bike Sales Project]([Bike Sales Dashboard.xlsx](https://github.com/robinjstpierre/dataportfolio/blob/main/Bike%20Sales%20Dashboard.xlsx))
 - Developed an Excel dashboard with pivot tables to analyze over 1,000 bike sales, comparing income, commute distance, and age of buyers vs. non-buyers, and exploring marital status, region, and education for demographic insights.
 
 ## Work Experience
