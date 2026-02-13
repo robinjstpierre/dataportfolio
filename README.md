@@ -10,7 +10,7 @@
 - IBM Data Analyst Professional Certificate (December 2025)			        		
 
 ## Projects
-### [2023 Job Market for Data Analyst](https://github.com/robinjstpierre/SQL/tree/main/SQL_Project_Data_Job_Analysis)
+### [Data Analyst Job Market Project](https://github.com/robinjstpierre/SQL/tree/main/SQL_Project_Data_Job_Analysis)
 
 ### [Chicago Data Project](https://github.com/robinjstpierre/dataportfolio/blob/2015b1c28a16e1b314329f1ffe0122dff18a8714/Chicago%20Data%20Portal.ipynb)
 - Analyzed over 500 case files from Chicago datasets (Socioeconomic, Schools, Crime) using SQLite and SQL queries. Processed CSV data with Pandas from the Chicago Data Portal.
