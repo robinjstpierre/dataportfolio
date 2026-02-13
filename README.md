@@ -1,4 +1,4 @@
-#Data Analyst | Business Analyst
+# Data Analyst | Business Analyst
 
 ## Skills
 - Programming Languages: Python (Pandas,NumPy, MatPlotLib)
